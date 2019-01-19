@@ -9,4 +9,4 @@ cc65 is required to assemble them.
 
 # Build an `.nes` file
 
-To build a `.nes` file, run the `.bat` file in this folder that matches your computer's processor architecture.
+To build a `.nes` file, run either the `mk32.bat` or `mk64.bat` file in this folder, depending on the grid size you desire.
